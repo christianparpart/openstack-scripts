@@ -1,0 +1,17 @@
+export PROJECT_TENANT_NAME="My Project"
+export PROJECT_TENANT_DESC="My Project (Production Environment)"
+
+export ADMIN_USER_NAME=admin
+export ADMIN_USER_PASS=secret
+export ADMIN_EMAIL=admin@example.com
+
+export ADMIN_ROLE_NAME="Admin"
+export MEMBER_ROLE_NAME="Member"
+
+# service tenant
+export SERVICE_TENANT_NAME="service"
+export SERVICE_TENANT_DESC="Service Tenant"
+export SERVICE_PASS="secret"
+
+# Cloud Controller IP address
+export CC_IPADDR="127.0.0.1"

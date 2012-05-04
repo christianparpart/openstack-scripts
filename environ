@@ -1,0 +1,2 @@
+export SERVICE_TOKEN=admin
+export SERVICE_ENDPOINT=http://10.10.30.190:35357/v2.0
